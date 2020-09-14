@@ -6,6 +6,6 @@ neste momento cursando o Bootcamp LaunchBase na Rocketseat
 
  **Tecnologias que estou estudando:**
  HTML|CSS|JavaScript|Node.js
-Here are some ideas to get you started:
+
 
 
