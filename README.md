@@ -16,7 +16,7 @@ cursando o Bootcamp LaunchBase na Rocketseat
  ### Como me encontrar: ###
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-oliveira-8578281ab/)
 [<img src="https://img.shields.io/github/followers/alexandremolive?label=follow&style=social" height="22" title="Follow me" />](https://github.com/alexandremolive) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandremolive@gmail.com)](mailto:alexandremolive@gmail.com)
+
  
 
 
