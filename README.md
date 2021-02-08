@@ -1,8 +1,7 @@
 # Olá! 😀
 
 ### Meu nome é Alexandre 
-Neste momento em processo de aprendizado para me qualificar como um Desenvolvedor Front-End,
-cursando o Bootcamp LaunchBase na Rocketseat
+Apaixonado por tecnologia e com uma curiosidade gigantesca, estou em busca diária de aprimorar meus conhecimentos e me tornar um Desenvolvedor Web completo.
 
  ### Tecnologias que estou estudando: ###
  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/alexandremolive/)](https://github.com/alexandremolive/)
