@@ -1,6 +1,6 @@
-# Olá! 😀
+# Olá! 🤓
 
-### Meu nome é Alexandre 
+### Meu nome é Alexandre ###
 Em busca de mudar o mundo através da programação.
 Um código de cada vez.
 
@@ -22,7 +22,10 @@ Estudante de Desenvolvimento Web na **TRYBE**
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-oliveira-8578281ab/)
 [<img src="https://img.shields.io/github/followers/alexandremolive?label=follow&style=social" height="22" title="Follow me" />](https://github.com/alexandremolive) 
 
+
+ ### Meu portfólio ainda em construção: ###
  
+[Portfólio](alexandremolive.github.io) 
 
 
 
