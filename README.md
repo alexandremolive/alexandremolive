@@ -1,10 +1,16 @@
 # Olá! 😀
 
 ### Meu nome é Alexandre 
-Apaixonado por tecnologia e com uma curiosidade gigantesca, estou em busca diária de aprimorar meus conhecimentos e me tornar um Desenvolvedor Web completo.
+Em busca de mudar o mundo através da programação.
+Um código de cada vez.
+
+Estudante de Desenvolvimento Web na **TRYBE**
 
  ### Tecnologias que estou estudando: ###
- [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/alexandremolive/)](https://github.com/alexandremolive/)
+
+[![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic==https://github.com/alexandremolive/)](https://github.com/alexandremolive/)
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/alexandremolive/)](https://github.com/alexandremolive/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/alexandremolive/)](https://github.com/alexandremolive/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/alexandremolive/)](https://github.com/alexandremolive/)
