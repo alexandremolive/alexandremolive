@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
-<h3 align="center">In search of changing the world through programming. One code at a time. Web Development Student at TRYBE</h3>
+<h3 align="center">In search of changing the world through programming. One code at a time. 
+
 
 - 🌱 I’m currently learning **CSS,JavaScript, React, MongoDB, Python**
 
