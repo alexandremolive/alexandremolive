@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Alexandre</h1>
-<h3 align="center">In search of changing the world through programming. One code at a time. 
+<h1 align="left">Hi 🤓, I'm Alexandre</h1>
+<h3 align="left">In search of changing the world through programming. One code at a time. 
 
 
-- 🌱 I’m currently learning **CSS,JavaScript, React, MongoDB, Python**
+- 🌱 I’m currently learning **CSS, JavaScript, React, MongoDB, Python**
 
 - 📫 How to reach me **alexandremolive.@gmail.com**
 
